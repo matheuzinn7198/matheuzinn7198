@@ -17,7 +17,8 @@
 
 - 👨‍💻 Especialista em **Flutter**, **Dart**, **JavaScript**, **TypeScript**, **React**, **Node.js**, **HTML/CSS** e **MySQL**
 - ⚙️ Áreas de atuação: **Front-End**, **Back-End**, **Mobile**, **Banco de Dados** e **Internet das Coisas (IoT)**
-- 📚 Atualmente focado em melhorar minhas habilidades e contribuir com soluções cada vez mais eficientes
+- 📚 Atualmente focado em melhorar minhas habilidades e contribuir com soluções cada vez mais eficientes.
+- ⚽ Amo jogar futebol nos finais de semana!
 - 🧠 Frase que me representa:
   
   > **"Quero evoluir todos os dias como desenvolvedor e como pessoa. Meu objetivo é crescer dentro da tecnologia e fazer a diferença com o que crio."**
@@ -50,10 +51,12 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusbull&show_icons=true&theme=tokyonight&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbull&layout=compact&theme=tokyonight" height="170"/>
-</div>
+<!-- Estatísticas do GitHub -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuzinn7198&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuzinn7198&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
 
 ---
 
