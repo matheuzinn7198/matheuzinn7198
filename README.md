@@ -65,8 +65,8 @@
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/@seu_instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x_bullx7)  
-[![LinkedIn](https://img.shields.io/badge/Matheus%20Bull-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu_linkedin)  
-[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:craquedebola07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Matheus%20Bull-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/matheus-bull-85277137a) 
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bullproducoes4@gmail.com)
 
 </div>
 
