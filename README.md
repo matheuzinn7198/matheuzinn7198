@@ -6,7 +6,7 @@
 
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; color: #555; line-height: 1.7;">
 Olá! Sou <strong>Matheus Büll</strong> — desenvolvedor full-stack e apaixonado por criar soluções digitais que elevam pequenos negócios. <br>
-Minha missão? <strong>Transformar ideias em experiências digitais reais</strong>: de sites modernos a apps que conectam pessoas e negócios. 🚀
+Minha missão? <strong>Transformar ideias em experiências digitais reais</strong>: sites modernos e simples que facilitem sua vida. 🚀
 </p>
 
 ---
@@ -14,17 +14,9 @@ Minha missão? <strong>Transformar ideias em experiências digitais reais</stron
 ### 💡 O que me move
 > "Na minha cabeça, eu sou o melhor. Se não pensarmos assim não temos ambição." 
 
-Sou um desenvolvedor que não vive só de tela — vivo de histórias reais.  
-Cada linha de código que escrevo tem um propósito: **ajudar pessoas e empresas a crescer através da tecnologia, criando soluções úteis, acessíveis e com propósito.**
-
----
-
-### 👨‍💻 O que eu faço
-
-- 💇‍♂️ **Desenvolvo apps móveis e web** com Flutter, React e Node.js  
-- 💬 **Atendo clientes exclusivamente pelo WhatsApp** — porque tecnologia deve ser acessível, não complicada  
-- 🌍 **Falo português, entendo o mercado brasileiro** e construo soluções que realmente funcionam aqui  
-- 🌐 **Crio sites modernos e performáticos para qualquer tipo de negócio** — do salão de beleza à loja virtual  
+Sou um desenvolvedor que não vive apenas de código — vivo de histórias reais.
+Cada projeto que construo carrega um propósito: ajudar pessoas e empresas a crescer por meio da tecnologia, criando soluções funcionais, acessíveis e cheias de significado.
+Mais do que programar, busco dar vida a ideias e transformar desafios em experiências digitais que realmente fazem a diferença. 🚀
 
 ---
 
@@ -32,7 +24,7 @@ Cada linha de código que escrevo tem um propósito: **ajudar pessoas e empresas
 <div align="center">
 
 #### 🧩 Linguagens & Frameworks
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,js,ts,html,css,tailwind,bootstrap,mysql,mongodb,firebase,git,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,js,ts,html,css,tailwind,bootstrap,mysql,mongodb,firebase,git,figma&theme=dark" />
 
 #### 📱 Áreas de Atuação
 <p>
@@ -43,7 +35,6 @@ Cada linha de código que escrevo tem um propósito: **ajudar pessoas e empresas
 <img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/REST%20API-%23007396?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/UX%2FUI%20Design-%23FF6B9D?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Controle%20de%20Versão-%23181717?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 </div>
@@ -92,9 +83,6 @@ Projetos práticos, integração com banco de dados e conceitos de UX aplicados 
 </div>
 
 ---
-
-💡 **Se você precisa de um site, app ou sistema feito sob medida — com design moderno e desempenho real — me chame no WhatsApp.**  
-Vamos transformar sua ideia em código de verdade. 🚀  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a29bfe,100:6c5ce7&height=140&section=footer&text=Desenvolvendo%20tecnologia%20com%20alma&fontSize=36&fontColor=ffffff&fontStyle=bold" />
