@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:a29bfe&height=220&section=header&text=Matheus%20Bull&fontSize=52&fontColor=ffffff&fontStyle=bold" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:a29bfe&height=220&section=header&text=Matheus%20Büll&fontSize=52&fontColor=ffffff&fontStyle=bold" />
 </p>
 
 <h2 align="center"><em>Desenvolvedor que transforma código em experiência 💇‍♂️💻</em></h2>
 
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; color: #555; line-height: 1.7;">
-Olá! Sou <strong>Matheus Bull</strong> — desenvolvedor full-stack e apaixonado por criar soluções digitais que elevam pequenos negócios. <br>
+Olá! Sou <strong>Matheus Büll</strong> — desenvolvedor full-stack e apaixonado por criar soluções digitais que elevam pequenos negócios. <br>
 Minha missão? <strong>Transformar ideias em experiências digitais reais</strong>: de sites modernos a apps que conectam pessoas e negócios. 🚀
 </p>
 
 ---
 
 ### 💡 O que me move
-> “Não basta saber programar. É preciso entender quem vai usar o que você criou.”  
+> "Na minha cabeça, eu sou o melhor. Se não pensarmos assim não temos ambição." 
 
 Sou um desenvolvedor que não vive só de tela — vivo de histórias reais.  
 Cada linha de código que escrevo tem um propósito: **ajudar pessoas e empresas a crescer através da tecnologia, criando soluções úteis, acessíveis e com propósito.**
@@ -85,9 +85,9 @@ Projetos práticos, integração com banco de dados e conceitos de UX aplicados 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/matheus-bull-85277137a)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bullproducoes4@gmail.com)
 
 </div>
 
