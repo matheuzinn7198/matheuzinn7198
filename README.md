@@ -5,7 +5,7 @@
 <h2 align="center"><em>Desenvolvedor que transforma código em experiência 💇‍♂️💻</em></h2>
 
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; color: #555; line-height: 1.7;">
-Olá! Sou <strong>Matheus Büll</strong> — desenvolvedor full-stack apaixonado por criar soluções digitais que elevam pequenos negócios. <br>
+Olá! Sou <strong>Matheus Büll</strong> — estagiario de TI apaixonado por criar soluções digitais que elevam pequenos negócios. <br>
 Minha missão? <strong>Transformar ideias em experiências reais</strong>: sites modernos e simples que facilitam sua vida. 🚀
 </p>
 
