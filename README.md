@@ -13,6 +13,8 @@ Minha missão? <strong>Transformar ideias em experiências reais</strong>: sites
 
 ### 💡 O que me move
 > "Na minha cabeça, eu sou o melhor. Se não pensarmos assim, não temos ambição."
+>
+> Cristiano Ronaldo
 
 Sou um desenvolvedor que não vive apenas de código — vivo de histórias reais.  
 Cada projeto que construo carrega um propósito: ajudar pessoas e empresas a crescer através da tecnologia, criando soluções funcionais, acessíveis e cheias de significado.
