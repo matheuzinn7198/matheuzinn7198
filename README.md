@@ -2,69 +2,99 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:a29bfe&height=220&section=header&text=Matheus%20Büll&fontSize=52&fontColor=ffffff&fontStyle=bold" />
 </p>
 
-<h2 align="center"><em>Desenvolvedor que transforma código em experiência 💇‍♂️💻</em></h2>
+<h2 align="center">
+  <em>💻 Suporte de TI & Desenvolvedor Front-End React</em>
+</h2>
 
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; color: #555; line-height: 1.7;">
-Olá! Sou <strong>Matheus Büll</strong> — estagiario de TI apaixonado por criar soluções digitais que elevam pequenos negócios. <br>
-Minha missão? <strong>Transformar ideias em experiências reais</strong>: sites modernos e simples que facilitam sua vida. 🚀
+<p align="center">
+Apaixonado por tecnologia, suporte de TI e desenvolvimento Front-End.<br>
+Atualmente focado em criar interfaces modernas com React, além de adquirir experiência prática em suporte técnico, infraestrutura e soluções que facilitam o dia a dia de usuários e empresas. 🚀
 </p>
 
 ---
 
 ### 💡 O que me move
+
 > "Na minha cabeça, eu sou o melhor. Se não pensarmos assim, não temos ambição."
 >
 > Cristiano Ronaldo
 
-Sou um desenvolvedor que não vive apenas de código — vivo de histórias reais.  
-Cada projeto que construo carrega um propósito: ajudar pessoas e empresas a crescer através da tecnologia, criando soluções funcionais, acessíveis e cheias de significado.
+Acredito que a tecnologia deve ser simples, útil e capaz de gerar impacto real.
 
-Mais do que programar, quero transformar desafios em experiências digitais que realmente fazem a diferença. 🚀
+Como estudante de Desenvolvimento de Sistemas e estagiário de TI, busco evoluir constantemente minhas habilidades em desenvolvimento web, suporte técnico e resolução de problemas, transformando desafios em soluções digitais eficientes.
 
 ---
 
-### 🛠️ Minha pilha tecnológica  
+### 🎯 Foco Atual
+
 <div align="center">
 
-#### 🧩 Linguagens & Frameworks
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,js,ts,html,css,tailwind,bootstrap,mysql,mongodb,firebase,git,figma&theme=dark" />
-
-#### 📱 Áreas de Atuação
 <p>
-  <img src="https://img.shields.io/badge/Front--End-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Back--End-%2300ADD8?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Banco%20de%20Dados-%2300758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST%20API-%23007396?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/UX%2FUI%20Design-%23FF6B9D?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suporte%20de%20TI-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Infraestrutura-6C757D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redes-FF6B35?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-### 🚀 Projetos que estão mudando o jogo
+### 🛠️ Tecnologias
 
-#### 📚 [Biblioteca “Ler e Viver” — Gerenciador de Livros](https://github.com/matheuzinn7198/biblioteca-ler-e-viver)
-**Tecnologias:** React + Node.js + MongoDB  
-Sistema elegante e simples para organização de livros usados por profissionais da beleza que buscam conhecimento real.
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,tailwind,bootstrap,mysql,mongodb,firebase,git,github,figma&theme=dark" />
 
-#### 💻 [Curso Front-End — Fundamentos e Projetos](https://github.com/matheuzinn7198/CursoFrontEnd)
-**Tecnologias:** HTML, CSS, JavaScript, React  
-Conteúdo prático e direto para quem deseja dominar o desenvolvimento web moderno.
+</div>
 
 ---
 
-#### 📱 [Curso Mobile — Desenvolvimento com Flutter](https://github.com/matheuzinn7198/CursoMobile)
-**Tecnologias:** Flutter + Dart + Firebase  
-Para quem quer aprender desenvolvimento mobile na prática, com projetos reais e foco em UX.
+### 🚀 Projetos em Destaque
+
+#### 🩺 [SmartCheck MES](https://github.com/matheuzinn7198/smartcheck-mes)
+
+**Tecnologias:** React • Node.js • Banco de Dados • REST API
+
+Sistema desenvolvido para gerenciamento e acompanhamento de processos, oferecendo uma interface moderna, intuitiva e eficiente para controle de informações e apoio à tomada de decisões.
+
+**✨ Principais funcionalidades**
+- Dashboard responsivo
+- Gerenciamento de registros
+- Integração Front-End e Back-End
+- Consumo de APIs REST
+- Interface moderna e intuitiva
 
 ---
 
-### 📲 Conecte-se comigo  
+#### 📚 [LousaFlow](https://github.com/matheuzinn7198/lousaflow)
+
+**Tecnologias:** React • JavaScript • Firebase
+
+Plataforma criada para organização e compartilhamento de conteúdos, focada em produtividade, colaboração e experiência do usuário.
+
+**✨ Principais funcionalidades**
+- Organização de conteúdos
+- Armazenamento em nuvem com Firebase
+- Interface amigável
+- Fluxo otimizado para estudos e gestão de informações
+
+---
+
+### 📈 Objetivos
+
+- Evoluir continuamente em React e desenvolvimento Front-End
+- Aprimorar conhecimentos em suporte técnico e infraestrutura
+- Participar de projetos que gerem impacto real para usuários
+- Construir soluções modernas, acessíveis e escaláveis
+- Crescer profissionalmente na área de Tecnologia da Informação
+
+---
+
+### 📲 Conecte-se comigo
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bull-85277137a)
@@ -76,5 +106,5 @@ Para quem quer aprender desenvolvimento mobile na prática, com projetos reais e
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a29bfe,100:6c5ce7&height=140&section=footer&text=Desenvolvendo%20tecnologia%20com%20alma&fontSize=36&fontColor=ffffff&fontStyle=bold" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a29bfe,100:6c5ce7&height=140&section=footer&text=Construindo%20soluções%20com%20tecnologia&fontSize=36&fontColor=ffffff&fontStyle=bold" />
 </p>
