@@ -21,7 +21,7 @@ Atualmente focado em criar interfaces modernas com React, além de adquirir expe
 
 Acredito que a tecnologia deve ser simples, útil e capaz de gerar impacto real.
 
-Como estudante de Desenvolvimento de Sistemas e estagiário de TI, busco evoluir constantemente minhas habilidades em desenvolvimento web, suporte técnico e resolução de problemas, transformando desafios em soluções digitais eficientes.
+Como estudante de Desenvolvimento de Sistemas e Suporte de TI, busco evoluir constantemente minhas habilidades em desenvolvimento web, suporte técnico e resolução de problemas, transformando desafios em soluções digitais eficientes.
 
 ---
 
